@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\vadim\source\repos\priorityqueue\priorityqueue\questlist.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+  PriorityQueue.vcxproj -> C:\Users\Vadim\source\repos\PriorityQueue\Debug\PriorityQueue.exe
